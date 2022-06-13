@@ -15,8 +15,7 @@
 
 ## :sassy_man: About me
 
--  school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
-- :trophy: `ACPC` Finalist 2021
+- School: I am a `Junior` at Indian Institute of Technology, Jodhpur.
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
