@@ -117,7 +117,7 @@
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
 </p>
 
-### 👉 IDEs
+### 👉 IDEs I use
 
 <p align="center">
   &emsp;
