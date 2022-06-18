@@ -1,22 +1,25 @@
 <p align="center">
   <img 
-    src="src/jason-mantzoukas-the-house.gif"
+    src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"
   >
 </p>
 
-<h1 align="center">Hi, I'm Ayush Abrol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello, I'm Ayush Abrol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=AI+and+Data+Science+Student"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=AI+and+Data+Science,+IIT+Jodhpur"></a>
 </p>
 
 <br>
 
 ## 😃 About me
 
-- This is Ayush Abrol, a pre-final year student pursuing my B.Tech in AI and Data from IIT Jodhpur.
-- Working a way through life exploring and learning new tech stacks.
-- I am into chess, music, food and gaming.
-- PS: A Linux user, as someone once said "The Linux philosophy is 'Laugh in the face of danger'. Oops. Wrong One. 'Do it yourself. Yes, that's it."
+- This is `Ayush Abrol`, a pre-final year student pursuing my B.Tech in `AI and Data Science` from `IIT Jodhpur`.
+- I'm highly passionate about `Computer Science` and `new technologies`.
+- Working a way through life exploring and learning new `tech stacks`.
+- In addition to this, I'm pretty proficient in fundamentals and implementation of `Data structure and Algorithm concepts`, `Database Systems`, `Object-Oriented Programming`, and `Operating Systems`.
+- I am into `chess`, `music`, `food` and `gaming`.
+- Ask me about anything, I am happy to help. 💬
+- PS: A `Linux` user, as someone once said "The Linux philosophy is 'Laugh in the face of danger'. Oops. Wrong One. 'Do it yourself. Yes, that's it."
 
 <br>
 
@@ -63,8 +66,8 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Golang" src="https://img.shields.io/badge/-Golang-green">
+  <a href="https://go.dev/" target="_blank"> 
+    <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="3.8%" width="3.8%">
   </a>
 </p>
 
@@ -98,10 +101,6 @@
   &emsp;
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
@@ -134,9 +133,6 @@
   &emsp;
     <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
 ### 👉 Operating Systems
@@ -159,10 +155,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ayush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayushabrol13&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushabrol13&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ayushabrol13" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -171,17 +167,15 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/ayushabrol13"><img alt="ayushabrol13's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ayushabrol13&custom_title=ayushbarol13%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <br/>
 
-## :trophy: Git profile Trophies
+## 🏆 Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ayushabrol13&layout=compact&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=ayushabrol13&layout=compact&theme=algolia" alt="ayushabrol13" /></a> </p>
 
 ---
 
-Credits: [7oSkaaa](https://github.com/7oSkaaa)
-
-Last Edited on: 01/06/2022
+Last Edited on: 18/06/2022
