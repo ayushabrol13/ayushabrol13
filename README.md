@@ -30,8 +30,6 @@
 <br>
 <br>
 
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="5%" width="5%"> Connect with me
 
 <p align="center">
@@ -67,7 +65,7 @@
   </a>
   &emsp;
   <a href="https://go.dev/" target="_blank"> 
-    <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="3.8%" width="3.8%">
+    <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="4.5%" width="4.5%">
   </a>
 </p>
 
