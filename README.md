@@ -109,6 +109,8 @@
 
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ayushabrol13&layout=compact&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=ayushabrol13&layout=compact&theme=algolia" alt="ayushabrol13" /></a> </p>
 
+## <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
+
 ---
 
 Last Edited on: 18/06/2022
