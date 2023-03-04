@@ -14,9 +14,10 @@
 ## 😃 About me
 
 - I'm `Ayush Abrol`, a pre-final year student pursuing my B.Tech in `AI and Data Science` from `IIT Jodhpur`.
-- I'm highly passionate about `Computer Science` and `new technologies`.
+- I'm highly passionate about `AI in Computer Science` and `Building automated tasks using AI/ML`.
 - Working a way through life exploring and learning new `tech stacks`.
-- In addition to this, I'm pretty proficient in fundamentals and implementation of `Data structure and Algorithm concepts`, `Database Systems`, `Object-Oriented Programming`, and `Operating Systems`.
+- In addition to this, I'm pretty proficient in fundamentals and implementation of `Machine Learning`, `Deep Learning` concepts. 
+- Knowledge of `Data structure and Algorithm concepts`, `Database Systems`, `Object-Oriented Programming`, and `Operating Systems`.
 - I am into `chess`, `music`, `food` and `gaming`.
 - Ask me about anything, I am happy to help. 💬
 - PS: A `Linux` user, as someone once said "The Linux philosophy is 'Laugh in the face of danger'. Oops. Wrong One. 'Do it yourself. Yes, that's it."
