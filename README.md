@@ -31,22 +31,6 @@
 
 </td>
 </tr>
-<tr>
-<td width="50%">
-
-### ⭐ Rockstar of the Month (Nov 2025)
-- Zero-downtime migration of AI services
-- Shaadi.com internal recognition
-
-</td>
-<td width="50%">
-
-### 🏅 Hackfest '24 Winner
-- 1st Place at Shaadi.com internal hackathon
-- Built competitor overlap analysis framework
-
-</td>
-</tr>
 </table>
 
 ---
