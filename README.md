@@ -2,8 +2,6 @@
 
 # 👋 Hello, I'm Ayush Abrol
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Award-Winning+ML+Engineer;CIO+Conclave+2025+Winner;Production+LLM+Infrastructure;3M%2B+Users+%7C+100K%2B+Daily+API+Calls;Building+AI+at+Scale" alt="Typing SVG" />
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-abrol)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushabrol13@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushabrol13)
