@@ -38,10 +38,10 @@ at [Shaadi.com](https://www.shaadi.com) and [AstroChat](https://astrochat.com), 
 [**loom**](https://github.com/ayushabrol13/loom):&nbsp;spec-driven&nbsp;agent&nbsp;harness<br>
 <sub>Python · MCP · LiteLLM</sub>
 
-[**memory-keeper**](https://github.com/ayushabrol13/memory-keeper):&nbsp;project&nbsp;memory<br>
+[**memory‑keeper**](https://github.com/ayushabrol13/memory-keeper):&nbsp;project&nbsp;memory<br>
 <sub>Claude Code plugin · TypeScript</sub>
 
-[**usage-line**](https://github.com/ayushabrol13/usage-line):&nbsp;usage&nbsp;meter<br>
+[**usage‑line**](https://github.com/ayushabrol13/usage-line):&nbsp;usage&nbsp;meter<br>
 <sub>Claude Code plugin · TypeScript</sub>
 
 **Hinglish SLMs**:&nbsp;Qwen&nbsp;&&nbsp;Gemma<br>
