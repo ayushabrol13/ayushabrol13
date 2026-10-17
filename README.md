@@ -38,14 +38,14 @@ at [Shaadi.com](https://www.shaadi.com) and [AstroChat](https://astrochat.com), 
 [**loom**](https://github.com/ayushabrol13/loom): spec-driven agent harness<br>
 <sub>Python · MCP · LiteLLM</sub>
 
-[**memory-keeper**](https://github.com/ayushabrol13/memory-keeper): Claude Code memory<br>
-<sub>TypeScript plugin</sub>
+[**memory-keeper**](https://github.com/ayushabrol13/memory-keeper): project memory<br>
+<sub>Claude Code plugin · TypeScript</sub>
 
-[**usage-line**](https://github.com/ayushabrol13/usage-line): Claude Code usage meter<br>
-<sub>TypeScript plugin</sub>
+[**usage-line**](https://github.com/ayushabrol13/usage-line): usage meter<br>
+<sub>Claude Code plugin · TypeScript</sub>
 
-**Hinglish SLMs**: fine-tuned Qwen, Gemma<br>
-<sub>QLoRA · DPO · Unsloth</sub>
+**Hinglish SLMs**: Qwen & Gemma<br>
+<sub>Fine-tuned with QLoRA · DPO</sub>
 
 </td>
 </tr>
