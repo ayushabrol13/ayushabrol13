@@ -18,16 +18,16 @@ at [Shaadi.com](https://www.shaadi.com) and [AstroChat](https://astrochat.com), 
 
 **At work**
 
-**Brain**: AI&nbsp;astrologer&nbsp;for&nbsp;AstroChat<br>
+**Brain**:&nbsp;AI&nbsp;astrologer&nbsp;for&nbsp;AstroChat<br>
 <sub>Agentic LLM · memory · guardrails</sub>
 
-**Match ranking**: mutual&nbsp;fit<br>
+**Match ranking**:&nbsp;mutual&nbsp;fit<br>
 <sub>Two-sided learning-to-rank · Shaadi.com</sub>
 
-**Dynamic pricing**: per-user&nbsp;offers<br>
+**Dynamic pricing**:&nbsp;per-user&nbsp;offers<br>
 <sub>Contextual bandits</sub>
 
-**LLM platform**: org-wide&nbsp;gateway<br>
+**LLM platform**:&nbsp;org-wide&nbsp;gateway<br>
 <sub>LiteLLM · Kafka feature store</sub>
 
 </td>
@@ -35,16 +35,16 @@ at [Shaadi.com](https://www.shaadi.com) and [AstroChat](https://astrochat.com), 
 
 **On the side**
 
-[**loom**](https://github.com/ayushabrol13/loom): spec-driven&nbsp;agent&nbsp;harness<br>
+[**loom**](https://github.com/ayushabrol13/loom):&nbsp;spec-driven&nbsp;agent&nbsp;harness<br>
 <sub>Python · MCP · LiteLLM</sub>
 
-[**memory-keeper**](https://github.com/ayushabrol13/memory-keeper): project&nbsp;memory<br>
+[**memory-keeper**](https://github.com/ayushabrol13/memory-keeper):&nbsp;project&nbsp;memory<br>
 <sub>Claude Code plugin · TypeScript</sub>
 
-[**usage-line**](https://github.com/ayushabrol13/usage-line): usage&nbsp;meter<br>
+[**usage-line**](https://github.com/ayushabrol13/usage-line):&nbsp;usage&nbsp;meter<br>
 <sub>Claude Code plugin · TypeScript</sub>
 
-**Hinglish SLMs**: Qwen&nbsp;&&nbsp;Gemma<br>
+**Hinglish SLMs**:&nbsp;Qwen&nbsp;&&nbsp;Gemma<br>
 <sub>Fine-tuned with QLoRA · DPO</sub>
 
 </td>
