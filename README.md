@@ -1,31 +1,70 @@
-### Ayush Abrol
+<div align="center">
 
-Data scientist at [Shaadi.com](https://www.shaadi.com) and [AstroChat](https://astrochat.com), Mumbai. I work on LLM agents, ranking and recommendation, and the infrastructure that keeps them reliable in production.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="Ayush Abrol, Data Scientist · Applied ML & GenAI" width="100%">
+</picture>
 
-**Currently** building Brain, the AI astrologer behind AstroChat's conversations, and two-sided match ranking at Shaadi.com.
+LLM agents · ranking & recommendation · production ML<br>
+at [Shaadi.com](https://www.shaadi.com) and [AstroChat](https://astrochat.com), Mumbai
 
-&nbsp;
-
-#### Work
-
-- **Brain** · The AI astrologer that holds conversations with every AstroChat user. It started as an agentic LLM stack (router agent, skills, MCP tools, memory) and was rebuilt as an explainable policy engine with grounded facts, cross-session memory and guardrails.
-- **Match ranking** · Two-sided models that predict both interest and the likelihood of acceptance, so members see profiles that are a mutual fit. Now ranks matches for all Shaadi.com users.
-- **Dynamic pricing** · A contextual-bandit system that sets personalised promotional prices.
-- **LLM platform** · A self-hosted LiteLLM gateway (routing, caching, safety, cost tracking) shared across teams, plus a real-time Kafka feature store for personalisation.
-
-#### Open source & side projects
-
-- [**loom**](https://github.com/ayushabrol13/loom) · A universal agent harness: describe an agent in one declarative spec and get a running service, with no runtime code changes.
-- [**memory-keeper**](https://github.com/ayushabrol13/memory-keeper) · [**usage-line**](https://github.com/ayushabrol13/usage-line) · Two small Claude Code plugins: a self-maintaining project memory, and a status line for context and plan usage.
-- **Hinglish astrology SLMs** · Qwen2.5-7B and Gemma-2-9B fine-tuned with QLoRA and DPO as self-hosted alternatives to paid LLM APIs.
-- [**Forex price prediction**](https://github.com/ayushabrol13/Forex-Stock-Price-Prediction-using-Transformer-and-Time-Embeddings) · A transformer with time embeddings for currency and stock forecasting.
-
-#### Toolkit
-
-Python · SQL · PyTorch · LangGraph · vLLM · Hugging Face · LiteLLM · Langfuse · AWS · Kafka · Databricks · ScyllaDB
+</div>
 
 &nbsp;
 
-<sub>B.Tech in AI & Data Science, IIT Jodhpur (2024) · CIO Conclave 2025 — Innovative Technology Implementation of the Year · Hackfest winner, Shaadi.com (2024, 2026)</sub>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<sub>Open to conversations about applied ML and GenAI roles · [LinkedIn](https://linkedin.com/in/ayush-abrol) · [Email](mailto:ayushabrol13@gmail.com)</sub>
+**At work**
+
+**Brain**: AI astrologer for AstroChat<br>
+<sub>Agentic LLM · memory · guardrails</sub>
+
+**Match ranking**: two-sided, mutual-fit<br>
+<sub>Learning-to-rank · Shaadi.com</sub>
+
+**Dynamic pricing**: personalised offers<br>
+<sub>Contextual bandits</sub>
+
+**LLM platform**: org-wide gateway<br>
+<sub>LiteLLM · Kafka feature store</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**On the side**
+
+[**loom**](https://github.com/ayushabrol13/loom): spec-driven agent harness<br>
+<sub>Python · MCP · LiteLLM</sub>
+
+[**memory-keeper**](https://github.com/ayushabrol13/memory-keeper): Claude Code memory<br>
+<sub>TypeScript plugin</sub>
+
+[**usage-line**](https://github.com/ayushabrol13/usage-line): Claude Code usage meter<br>
+<sub>TypeScript plugin</sub>
+
+**Hinglish SLMs**: fine-tuned Qwen, Gemma<br>
+<sub>QLoRA · DPO · Unsloth</sub>
+
+</td>
+</tr>
+</table>
+
+&nbsp;
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cpytorch%2Ctensorflow%2Csklearn%2Cfastapi%2Cdocker%2Caws%2Ckafka%2Credis%2Cpostgres%2Cmongodb%2Clinux&theme=dark&perline=12">
+  <img src="https://skillicons.dev/icons?i=python%2Cpytorch%2Ctensorflow%2Csklearn%2Cfastapi%2Cdocker%2Caws%2Ckafka%2Credis%2Cpostgres%2Cmongodb%2Clinux&theme=light&perline=12" alt="Python, PyTorch, TensorFlow, scikit-learn, FastAPI, Docker, AWS, Kafka, Redis, PostgreSQL, MongoDB, Linux" height="40">
+</picture>
+
+<sub>LangGraph · vLLM · Hugging Face · Langfuse · Databricks · ScyllaDB</sub>
+
+&nbsp;
+
+<sub>IIT Jodhpur, AI & Data Science · CIO Conclave 2025 award · Hackfest winner 2024, 2026</sub><br>
+<sub>Open to conversations about applied ML & GenAI roles · [LinkedIn](https://linkedin.com/in/ayush-abrol) · [Email](mailto:ayushabrol13@gmail.com)</sub>
+
+</div>
