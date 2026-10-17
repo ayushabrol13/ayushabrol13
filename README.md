@@ -21,10 +21,10 @@ at [Shaadi.com](https://www.shaadi.com) and [AstroChat](https://astrochat.com), 
 **Brain**: AI astrologer for AstroChat<br>
 <sub>Agentic LLM · memory · guardrails</sub>
 
-**Match ranking**: two-sided, mutual-fit<br>
-<sub>Learning-to-rank · Shaadi.com</sub>
+**Match ranking**: mutual fit<br>
+<sub>Two-sided learning-to-rank · Shaadi.com</sub>
 
-**Dynamic pricing**: personalised offers<br>
+**Dynamic pricing**: per-user offers<br>
 <sub>Contextual bandits</sub>
 
 **LLM platform**: org-wide gateway<br>
